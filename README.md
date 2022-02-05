@@ -39,4 +39,5 @@ class About extends Me {
     }
 }
 ```
-[![Vojtěch Váchal StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042)](https://stackoverflow.com/users/6558042/omid-nikrah)
+[![Vojtěch Váchal StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
