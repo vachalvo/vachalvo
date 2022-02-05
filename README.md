@@ -2,8 +2,8 @@
 
 ### I'm Student, Developer and Programmer.
 
-- 🔭 I’m currently working at Unicorn
-- 🌱 I’m currently learning React, .NET and other
+- 🔭 I’m currently working at Unicorn.
+- 🌱 I’m currently learning React, .NET and other.
 - ⚡ 2022 Goals: finish fourth year of school, travel, learn new technology, read books.
 
 ```java
