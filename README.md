@@ -1,6 +1,6 @@
 ### Hi there, I'm Vojtěch 👋
 
-## I'm Student, Developer and Programmer.
+I'm Student, Developer and Programmer.
 
 - 🔭 I’m currently working at Unicorn
 - 🌱 I’m currently learning React, .NET and other
@@ -11,11 +11,12 @@ class About extends Me {
     
     private static String name = "Vojtěch Váchal";
     private static int age = 23;
+    private static String city = "Pilsen";
     
     public Workspace[] getCurrentWorkplaces() {
         return new Workspace[] {
             new Workspace("Unicorn", "Junior Software Developer"),
-            new Workspace("University of West Bohemia", "Student"
+            new Workspace("University of West Bohemia", "Student")
         };
     }
 
