@@ -40,7 +40,4 @@ class About extends Me {
 }
 ```
 [![Vojtěch Váchal StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18129429&theme=dark)](https://stackoverflow.com/users/18129429/vachalvo)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vachalvo&layout=compact)](https://github.com/vachalvo/github-readme-stats)
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
