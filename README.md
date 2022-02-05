@@ -1,16 +1,43 @@
-### Hi there 👋
+### Hi there, I'm Vojtěch 👋
 
+## I'm Student, Developer and Programmer.
 <!--
-**vachalvo/vachalvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at Unicorn
+- 🌱 I’m currently learning React, .NET and other
+- ⚡ 2022 Goals: finish fourth year of school, travel, learn new technology, read books.
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+```java
+class About extends Me {
+    
+    private static String name = "Vojtěch Váchal";
+    private static int age = 23;
+    
+    public Workspace[] getCurrentWorkplaces() {
+        return new Workspace[] {
+            new Workspace("Unicorn", "Junior Software Developer"),
+            new Workspace("University of West Bohemia", "Student"
+        };
+    }
+
+    public Knowledge[] getKnowledges() {
+        return new Knowledge[] {
+            new Knowledge("Java"),
+            new Knowledge("JavaScript"),
+            new Knowledge("React"),
+            new Knowledge("C"),
+            new Knowledge("Spring Boot"),
+            new Knowledge("SQL"),
+            new Knowledge("Git"),
+            new Knowledge("REST"),
+            new Knowledge("OOP");
+        };
+    }
+
+    public String getMotto() {
+        return "Think, plan, execute...";
+    }
+}
+```
