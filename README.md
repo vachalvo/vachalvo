@@ -1,6 +1,6 @@
-### Hi there, I'm Vojtěch 👋
+## Hi there, I'm Vojtěch 👋
 
-I'm Student, Developer and Programmer.
+### I'm Student, Developer and Programmer.
 
 - 🔭 I’m currently working at Unicorn
 - 🌱 I’m currently learning React, .NET and other
@@ -40,4 +40,4 @@ class About extends Me {
 }
 ```
 [![Vojtěch Váchal StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)
-[![Github Stats](https://github-readme-stats.vercel.app/api/wakatime?username=vachalvo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vachalvo)](https://github.com/vachalvo/github-readme-stats)
