@@ -31,7 +31,7 @@ class About extends Me {
             new Knowledge("SQL"),
             new Knowledge("Git"),
             new Knowledge("REST"),
-            new Knowledge("OOP");
+            new Knowledge("OOP")
         };
     }
 
