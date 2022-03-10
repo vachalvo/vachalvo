@@ -1,6 +1,6 @@
 ## Hi there, I'm Vojtěch 👋
 
-### I'm Student, Developer and Programmer.
+### Student, Developer and Programmer. 💻
 
 - 🔭 I’m currently working at Unicorn.
 - 🌱 I’m currently learning React, .NET and other.
