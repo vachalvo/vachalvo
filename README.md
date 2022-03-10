@@ -40,5 +40,3 @@ class About extends Me {
     }
 }
 ```
-[![Vojtěch Váchal StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18129429&theme=dark)](https://stackoverflow.com/users/18129429/vachalvo)
-![LeetCode Stats](https://leetcode.card.workers.dev/vachalvo?theme=dark&font=source_code_pro&extension=null)
