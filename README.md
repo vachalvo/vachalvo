@@ -1,11 +1,11 @@
 ## 👋 Hi there I'm Vojtěch,
 
-### 💻 Student, Developer and Programmer.
+### 💻 Software Engineer, Developer and Programmer.
 
-- 🔭 I’m currently working at Unicorn.
-- 🌱 I’m currently learning React, .NET and other.
+- 🔭 I’m currently working at Creditas Digital Factory and previous experience at Unicorn.
+- 🌱 I’m currently learning TypeScript, JS Frameworks, .NET and other.
 - 🏃 I´m interested in climbing, running, traveling and drinking Pilsner beer.
-- ⚡ 2022 Goals: finish fourth year of uni, learn new technology and read some books.
+- ⚡ 2023 Goals: learn new technology and read some books
 
 ```java
 class About extends Me {
