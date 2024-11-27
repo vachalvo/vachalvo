@@ -1,3 +1,5 @@
+![image info](./banner.png)
+
 ## 👋 Hi there I'm Vojtěch,
 
 ### Software Engineer with more than half a decade of experience.
